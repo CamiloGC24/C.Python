@@ -1,5 +1,4 @@
-# Creación de la función
-def letter_counter_app():
+def letter_counter():
 
     print("\tWelcome to the Letter counter App")
 
@@ -18,6 +17,4 @@ def letter_counter_app():
         s = ""
 
     print(f"\t{name}, your message has {occurrences} {letter}{s} in it ")
-
-# Llamada a la función
-letter_counter_app()
+letter_counter()

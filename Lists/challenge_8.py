@@ -1,5 +1,3 @@
-# Creación de la función
-
 def Grocery_list():
     import datetime
     time = datetime.datetime.now()
@@ -43,5 +41,4 @@ def Grocery_list():
     print(f"\n\tHere is what remains on your grocery list:\t")
     print(f"\t{groce_list}")
 
-# LLamada a la función
 Grocery_list()

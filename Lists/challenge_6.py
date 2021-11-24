@@ -1,6 +1,4 @@
 
-  
-# Creación de la función 
 
 def Grade_Sorter_App():
 
@@ -23,5 +21,4 @@ def Grade_Sorter_App():
     print(f'\tYour remaining grades are: {reversed_grades}')
     print(f'\tNice work! Your highest grade is a:{reversed_grades[0]}')
 
-# Llamada a la función
 Grade_Sorter_App()

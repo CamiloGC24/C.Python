@@ -1,6 +1,4 @@
 
-  
-# Creación de la función
 def Summary_table():
 
     num_strings = ["15", "100", "55", "42"]
@@ -32,5 +30,4 @@ def Summary_table():
 
     print(f"\n\tStrings are sorted alphabetically while integers are sorted numerically!")
 
-# Llamada a la función
 Summary_table()

@@ -1,4 +1,4 @@
-# Creación de la función
+
 def basketball_team():
     print(f"\tWelcome to the Basketball Roster Program")
     roster = []
@@ -16,5 +16,5 @@ def basketball_team():
     roster.insert(2,input(f"\tWho will take {removed_player}`s spot:\t").title())
     print(f"\n\t\tYour starting 5 for the upcoming basketball season\n\t\t\tPoint Guard:\t\t{roster[0]}\n\t\t\tShooting Guard:\t\t{roster[1]}\n\t\t\tSmall Forward:\t\t{roster[2]}\n\t\t\tPower Forward:\t\t{roster[3]}\n\t\t\tCenter:\t\t\t{roster[4]}\n")
 
-# Llamada a la función
+
 basketball_team()

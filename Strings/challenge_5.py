@@ -1,6 +1,4 @@
 
-  
-#Creación de la función
 def multiplication_exponent_table():
     name = input("\tWhats is your name?:\t").title()
     number = float(input("\tWhat number would you like to work with?:\t").title())
@@ -32,5 +30,4 @@ def multiplication_exponent_table():
         \t\t\t{name} {msg.title()}
         \t\t\t\t{name.upper()} {msg.upper()}""")
 
-# Llamada a la función
 multiplication_exponent_table()

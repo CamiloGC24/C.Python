@@ -1,5 +1,3 @@
-
-# Creación de la función
 def Favorite_teacher_program():
     print("\tWelcome to the Favorite Teachers Program")
     fav_teachers = []
@@ -26,5 +24,4 @@ def Favorite_teacher_program():
     print(f"\tYour have a total of 5 favorite teachers.")
 
 
-# Llamada a la función
 Favorite_teacher_program()
